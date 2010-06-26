@@ -1,0 +1,8 @@
+RunTweeter is a twitter feed parser for Runners which counts the total distance from your tweets
+
+Gems required:
+json
+
+Usage
+ruby runtweeter.rb <TwitterUsername>
+Example: ruby runtweeter.rb vinodhruns
