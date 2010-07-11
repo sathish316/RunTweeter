@@ -1,4 +1,4 @@
-RunTweeter is a twitter feed parser for Runners which counts the total distance from your tweets
+RunTweeter is a twitter feed parser for Runners which counts the total distance and other useful run stats from your tweets
 
 Gems required:
 json
